@@ -14,7 +14,8 @@
 Интересные статьи, видео, записи конференций, в общем все то, что может помочь, мы выкладываем на [этой странице](https://github.com/TsarS/lithograph/blob/main/Sources)
 ## Технологический процесс литографа
 ### Эскиз литографа
-![Эскиз литографа Missclick Очепятка]([https://myoctocat.com/assets/images/base-octocat.svg](https://disk.yandex.ru/i/Jh6OMRODk217Ww))
+![Эскиз литографа Missclick Очепятка](https://disk.yandex.ru/i/Jh6OMRODk217Ww)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Этапы проектирования 
 - [x] Несущая поверхность для магнитной пластины
