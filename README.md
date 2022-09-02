@@ -14,7 +14,7 @@
 Интересные статьи, видео, записи конференций, в общем все то, что может помочь, мы выкладываем на [этой странице](/SOURCES.MD)
 ## Технологический процесс литографа
 ### Эскиз литографа
-![Эскиз литографа Missclick Очепятка](https://disk.yandex.ru/i/Jh6OMRODk217Ww)
+![Эскиз литографа Missclick Очепятка](/resources/files/lithograph-13-05-2022.png)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Этапы проектирования 
