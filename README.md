@@ -15,7 +15,6 @@
 ## Технологический процесс литографа
 ### Эскиз литографа
 ![Эскиз литографа Missclick Очепятка](/resources/files/lithograph-13-05-2022.png)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Этапы проектирования 
 - [x] Несущая поверхность для магнитной пластины
