@@ -1,4 +1,7 @@
 
+## Общая информация о производстве 
+[Этапы производства микроэлектронных приборов на кристалле](/resources/general/README.MD)
+
 ## Литография
  [Principles of Lithography - Harry J. Levinson (англ.язык) ](https://disk.yandex.ru/i/vpRRU_KwUkvanA)
 
