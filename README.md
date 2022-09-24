@@ -21,8 +21,8 @@
 ![](./assets/general.svg)
 
 - [Сканер](./stages/scanner.md)
-- Оптическая система
-- Рама
+- [Оптическая система](./stages/stage.md)
+- [Рама](./stages/stage.md)
 - Степпер
 - EUV
 - Система стабилизации
