@@ -17,13 +17,13 @@
 <!-- ![](./assets/general.svg) -->
 ![](./resources/files/twinscan.png)
 1. [Шлюз загрузки ](./stages/load_gateway.md)
-2. Камера очистки
-3. Загрузочно-установочный манипулятор
-4. Маска
+2. [Камера очистки](./stages/wafer_cleaning.md)
+3. [Загрузочно-установочный манипулятор](./stages/load_handler.md)
+4. [Маска](./stages/dynamic_mask.md)
 5. [Сканер](./stages/scanner.md)
-6. Столик
+6. [Столик](./stages/wafer_table.md)
 7. [Оптическая система](./stages/stage.md)
-8. Вакуумная система
+8. [Вакуумная система](./stages/vacuum_solution.md)
 
 ### Эскиз литографа
 ![Эскиз литографа Missclick Очепятка](/resources/files/lithograph-13-05-2022.png)
