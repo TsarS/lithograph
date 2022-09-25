@@ -1,6 +1,6 @@
 # Сканер
 
-<! -- ![](../assets/scanner.svg) -->
+<!-- ![](../assets/scanner.svg) -->
 
 
 
