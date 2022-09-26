@@ -13,6 +13,8 @@
 7. ...
 8. 
 
+![](../assets/wafer_table.svg)
+
 
 ## References
 [Рендер видео работы столика от ASML](https://www.youtube.com/watch?v=e-WdlVgp9-w)
